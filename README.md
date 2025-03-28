@@ -6,8 +6,7 @@ we have been through a lot to leave you something so legendary from that time.
 > [!NOTE]
 > thank you for your attention.
 
-::: danger 
+> [!CAUTION] 
 > before installing the livery, make a backup copy just in case!
-:::
 
 you will need the program: `IMG Tool`
